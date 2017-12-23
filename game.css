@@ -1,0 +1,43 @@
+#background {
+  background-image: url('jungle.png');
+  background-repeat: repeat-x;
+  position: fixed;
+  z-index: 0;
+  height: 700px;
+  width: 200%;
+  background-size: 51%;
+  margin: 0px;
+  border : 2px solid black;
+}
+#wolf {
+  width: 430px;
+  z-index: 1;
+  float: left;
+  position: relative;
+  top: 400px;
+  left: 0 px;
+}
+
+#rabbit {
+  height: 200px;
+  width: 200px;
+  z-index: 1;
+  float: left;
+  position: relative;
+  left:400px;
+  top: 395px;
+}
+
+#rabbitImg {
+  height: 200px;
+  width: 200px;
+}
+
+.stone{
+  position: relative;
+  z-index: 1;
+  width: 80px;
+  height: 80px;
+  float: right;
+  top: 520px;
+}

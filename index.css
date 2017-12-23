@@ -1,0 +1,39 @@
+body{
+  background-color: lightblue;
+  background-repeat: repeat-x;
+}
+
+#startGame {
+  font-size: 40px;
+  font-weight: bold;
+  position: absolute;
+  top: 500px;
+  left: 520px;
+  height: 50px;
+  width: 400px;
+  background-color: white;
+  text-decoration: none;
+  text-align: center;
+  border: 5px solid grey;
+}
+#instruction{
+  position:relative;
+  left:50px;
+  width:600px;
+}
+h2{
+  font-size:40px;
+}
+p{
+  font-size: 30px;
+}
+#imgId{
+  position: relative;
+  left:950px;
+  height:350px;
+  width:350px;
+}
+#rabbit{
+  height:100%;
+  width:100%;
+}
